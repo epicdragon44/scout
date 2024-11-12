@@ -6,4 +6,4 @@ The easiest, fastest, hyperlinked AI screenreader.
 
 Modern screenreaders are broken. We leverage OpenAI's latest voice, conversation, and comprehension models so anyone can traverse the web eyes closed, hands free.
 
-Hacked at a16z's Consumer AI Hackathon in New York City.
+Accelerated at a16z's Consumer AI Hackathon in New York City.
